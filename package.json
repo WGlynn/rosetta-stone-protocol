@@ -1,0 +1,24 @@
+{
+  "name": "rosetta-stone-protocol",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Rosetta Stone Protocol — universal cross-domain concept translator. Monorepo: engine (pure ESM lib), web (Vite SPA), server (Node + SQLite). Backed by VibeSwap ContributionDAG + ShapleyDistributor for on-chain author attribution.",
+  "type": "module",
+  "workspaces": [
+    "packages/engine",
+    "packages/web",
+    "packages/server"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace=packages/web",
+    "dev:server": "npm run dev --workspace=packages/server",
+    "build:web": "npm run build --workspace=packages/web",
+    "build:engine": "npm run test --workspace=packages/engine"
+  },
+  "author": "WGlynn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WGlynn/rosetta-stone-protocol.git"
+  }
+}

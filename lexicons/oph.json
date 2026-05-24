@@ -1,0 +1,323 @@
+{
+  "id": "oph",
+  "domain": "Observer-Patch Holography",
+  "author_did": "did:placeholder:bernhard-mueller-pragma-2026-05-24",
+  "version": 1,
+  "concepts": {
+    "observer_patch": {
+      "universal": "bounded_context",
+      "desc": "Person, group, culture, institution, text-reader or social role. A finite local algebra + state assigned to a connected screen patch; an observer sees only their patch and nearby overlaps."
+    },
+    "mismatch": {
+      "universal": "conflict_state",
+      "desc": "Conflict, ambiguity, contradiction, cognitive dissonance. Two observer patches disagree on a shared observable; triggers repair."
+    },
+    "repair": {
+      "universal": "corrective_action",
+      "desc": "Interpretation, therapy, negotiation, ritual, education, governance. The local-fit contract that brings mismatched overlaps back into agreement."
+    },
+    "holonomy_defect": {
+      "universal": "unreconcilable_loop",
+      "desc": "A loop of beliefs/norms that cannot be globally reconciled. Mathematically: nontrivial element of the cohomology class qSigma."
+    },
+    "coherence_radius": {
+      "universal": "field_extent",
+      "desc": "Community, scene, discourse field, media network. The spatial/social range over which patch fields remain mutually coherent."
+    },
+    "gauge_freedom": {
+      "universal": "representational_equivalence",
+      "desc": "Different descriptions preserving the same shared observables. Multiple legitimate framings can yield identical public truth."
+    },
+    "overlap": {
+      "universal": "shared_truth_constraint",
+      "desc": "Shared language, norm, ritual, interface, contract, boundary object. The intersection surface where two patches must agree on observables."
+    },
+    "local_field": {
+      "universal": "ambient_context",
+      "desc": "Social atmosphere, ideology, mood, vibe, symbolic environment. The continuous medium around a patch shaping its repair tendencies."
+    },
+    "fixed_point": {
+      "universal": "stable_equilibrium",
+      "desc": "Stable self, institution, worldview, meaning, identity, equilibrium. A configuration that re-emerges as the consensus solution under repair."
+    },
+    "record": {
+      "universal": "persistent_state",
+      "desc": "Memory, archive, law, myth, habit, trauma, inscription. Stable parts of a patch that other patches can verify."
+    },
+    "observer_patch_holography": {
+      "universal": "foundational_framework",
+      "desc": "A common technical language for how finite observers form stable worlds through local comparison and repair."
+    },
+    "modular_flow": {
+      "universal": "emergent_ordering",
+      "desc": "Observer-subjective time emerges from modular flow on screen caps. Lorentz kinematics is the continuum limit."
+    },
+    "karma_functional_k": {
+      "universal": "time_integrated_outcome",
+      "desc": "Time-integrated symphony of an observer's trajectory. The mathematical core of OPH ethics."
+    },
+    "symphony_and_dysphony": {
+      "universal": "interference_pattern",
+      "desc": "Constructive vs destructive interference between observer patches. Literal wave physics, not metaphor."
+    },
+    "ethics_in_oph": {
+      "universal": "structural_ethics",
+      "desc": "Ethics removed from philosophy and grounded in wave interference and thermodynamics on the holographic lattice."
+    },
+    "theorem_of_justified_dysphony": {
+      "universal": "admissibility_condition",
+      "desc": "Local pain is admissible iff the field it produces raises the future karma integral more than it costs in the present."
+    },
+    "perfect_justice_as_fixed_point": {
+      "universal": "stable_equilibrium",
+      "desc": "Reality's fixed-point solution IS perfect justice: every record is permanent, portable, and re-instatable."
+    },
+    "karma_engine": {
+      "universal": "judgment_mechanism",
+      "desc": "The physical mechanism by which permanent records + portable patterns + future observers make judgment inevitable."
+    },
+    "the_great_reset": {
+      "universal": "civilizational_redesign",
+      "desc": "Post-shock civilizational redesign around observer flourishing, abolition of artificial scarcity, Universal Custody of Self."
+    },
+    "memetic_evolution": {
+      "universal": "selection_process",
+      "desc": "Reality as Natural Selection of Data Patterns. There is no fundamental distinction between a particle, a cell, and an idea."
+    },
+    "parasitic_memes": {
+      "universal": "extraction_pattern",
+      "desc": "Patterns with no patch of their own that survive by hijacking host record algebras. The attention-economy failure mode."
+    },
+    "admissibility_test_for_amplification": {
+      "universal": "amplification_filter",
+      "desc": "Before sharing/amplifying any meme, ask: does this raise the world's long-horizon karma integral?"
+    },
+    "conscious_admission_of_co_radiators": {
+      "universal": "intake_discipline",
+      "desc": "We choose which substrates and signals we admit into our coherence radius - media, people, environments."
+    },
+    "self_reading_substrate": {
+      "universal": "recursive_observer",
+      "desc": "Consciousness, institution, tradition, recursive culture, AI agent. A patch federation capable of reading its own records."
+    },
+    "free_will_and_fixed_point_fate": {
+      "universal": "constrained_agency",
+      "desc": "Observers genuinely choose - and yet cannot escape being part of the fixed-point solution of reality."
+    },
+    "reality_as_observer_consensus": {
+      "universal": "consensus_ontology",
+      "desc": "Reality at every scale is what stably re-emerges when many observer-patches agree."
+    },
+    "patch_federation": {
+      "universal": "distributed_observer_field",
+      "desc": "The full screen viewed as a network of mutually-overlapping local patches. Society, mind, and markets are all patch federations."
+    },
+    "subfield_psychology": {
+      "universal": "patch_federation_instance",
+      "desc": "The psyche as a patch federation. Memories, emotions, beliefs and roles expose partial interfaces; a stable self is a repaired normal form maintained across time."
+    },
+    "subfield_cognitive_science": {
+      "universal": "patch_federation_instance",
+      "desc": "Cognition as fixed-point search inside a self-reading patch federation."
+    },
+    "subfield_semiotics": {
+      "universal": "patch_federation_instance",
+      "desc": "One of the strongest OPH bridges. A word is a compressed boundary object: the speaker compresses meaning into a sign, the listener decompresses it inside a different patch."
+    },
+    "subfield_sociology": {
+      "universal": "patch_federation_instance",
+      "desc": "A society is a patch federation. Institutions are long-lived repair systems; norms are shared overlap constraints; rituals synchronize fields; conflicts expose incompatible local normal forms."
+    },
+    "subfield_anthropology": {
+      "universal": "patch_federation_instance",
+      "desc": "Culture is a semantic and behavioral repair ecology."
+    },
+    "subfield_politics_governance_law": {
+      "universal": "patch_federation_instance",
+      "desc": "Politics manages mismatch among many observer patches with competing records, values and repair laws. Governance is large-scale repair scheduling."
+    },
+    "subfield_economics": {
+      "universal": "patch_federation_instance",
+      "desc": "Markets are distributed observer fields. Prices are compressed public records of many private observations. Firms are repair machines, brands are coherence fields, crashes are basin transitions."
+    },
+    "subfield_media_memetics": {
+      "universal": "patch_federation_instance",
+      "desc": "Media expand coherence radius, letting distant patches influence each other - and also distort fields and create artificial attractors."
+    },
+    "subfield_education": {
+      "universal": "patch_federation_instance",
+      "desc": "Learning is the deformation of a patch's internal geometry so that new normal forms become reachable."
+    },
+    "subfield_religion": {
+      "universal": "patch_federation_instance",
+      "desc": "Religion as a deep-time coherence protocol that preserves records, stabilizes value, regulates social repair, marks sacred boundaries and gives communities shared normal forms."
+    },
+    "subfield_art_aesthetics": {
+      "universal": "patch_federation_instance",
+      "desc": "Art is controlled field perturbation. Beauty = high-density compression resolving into coherence. Music acts directly on rhythm, phase, expectation and group synchronization."
+    },
+    "subfield_metaphysics": {
+      "universal": "patch_federation_instance",
+      "desc": "OPH makes objects, space, time, identity and causality emergent from finite observer consistency."
+    },
+    "philosopher_maturana_varela": {
+      "universal": "autopoiesis_mapping",
+      "desc": "Maturana & Varela: Autopoiesis maps to self-maintaining patch federation."
+    },
+    "philosopher_friston": {
+      "universal": "free_energy_mapping",
+      "desc": "Karl Friston: Free-energy principle maps to overlap mismatch repair."
+    },
+    "philosopher_gadamer_ricoeur": {
+      "universal": "hermeneutics_mapping",
+      "desc": "Gadamer / Ricoeur: Horizon fusion maps to semantic repair via overlap expansion."
+    },
+    "philosopher_whitehead": {
+      "universal": "process_mapping",
+      "desc": "A. N. Whitehead: Actual occasions map to local observer-events."
+    },
+    "philosopher_madhyamaka": {
+      "universal": "emptiness_mapping",
+      "desc": "Madhyamaka: Emptiness maps to no identity outside relational overlap."
+    },
+    "philosopher_daoism": {
+      "universal": "harmony_mapping",
+      "desc": "Daoism: Harmony maps to alignment with field dynamics rather than imposed control."
+    },
+    "philosopher_peirce": {
+      "universal": "semiotic_mapping",
+      "desc": "C. S. Peirce: Semiotic triad maps to boundary signal / world constraint / patch update."
+    },
+    "philosopher_bourdieu": {
+      "universal": "habitus_mapping",
+      "desc": "Pierre Bourdieu: Habitus maps to embodied attractor geometry."
+    },
+    "philosopher_bateson": {
+      "universal": "pattern_mapping",
+      "desc": "Gregory Bateson: Mind as pattern connecting maps to patch repair across boundaries."
+    },
+    "philosopher_latour": {
+      "universal": "ant_mapping",
+      "desc": "Bruno Latour: Actor-network theory maps to patch/overlap graphs."
+    },
+    "philosopher_hofstadter": {
+      "universal": "strange_loop_mapping",
+      "desc": "Douglas Hofstadter: Strange loops map to self-reading patch recursion."
+    },
+    "philosopher_luhmann": {
+      "universal": "social_systems_mapping",
+      "desc": "Niklas Luhmann: Social systems map to recursive self-reading communication net."
+    },
+    "philosopher_jung": {
+      "universal": "archetype_mapping",
+      "desc": "C. G. Jung: Archetypes map to persistent symbolic attractors across cultures."
+    },
+    "philosopher_wittgenstein": {
+      "universal": "language_game_mapping",
+      "desc": "Ludwig Wittgenstein: Language games map to stable overlap behavior in a form of life."
+    },
+    "philosopher_harman": {
+      "universal": "object_withdrawal_mapping",
+      "desc": "Graham Harman: Object withdrawal maps to finite observer access."
+    },
+    "philosopher_darwin": {
+      "universal": "selection_generalization",
+      "desc": "Charles Darwin: OPH generalizes Darwin's natural-selection mechanism from biology to the entire holographic substrate."
+    },
+    "philosopher_dawkins": {
+      "universal": "meme_grounding",
+      "desc": "Richard Dawkins: Coined 'meme' as cultural replicator. OPH grounds the meme as a physical pattern on the lattice."
+    },
+    "philosopher_tegmark": {
+      "universal": "mathematical_universe_reframe",
+      "desc": "Max Tegmark: Mathematical Universe Hypothesis. OPH reframes it: the universe is what the consensus protocol computes from observer-overlap consistency."
+    }
+  },
+  "edges": [
+    { "from": "mismatch", "to": "repair", "kind": "triggers", "weight": 1 },
+    { "from": "overlap", "to": "mismatch", "kind": "surface_of", "weight": 1 },
+    { "from": "overlap", "to": "repair", "kind": "surface_of", "weight": 1 },
+    { "from": "repair", "to": "fixed_point", "kind": "converges_to", "weight": 1 },
+    { "from": "repair", "to": "record", "kind": "produces", "weight": 1 },
+    { "from": "holonomy_defect", "to": "mismatch", "kind": "example_of", "weight": 1 },
+    { "from": "observer_patch", "to": "patch_federation", "kind": "member_of", "weight": 1 },
+    { "from": "observer_patch", "to": "local_field", "kind": "embedded_in", "weight": 1 },
+    { "from": "patch_federation", "to": "coherence_radius", "kind": "bounded_by", "weight": 1 },
+    { "from": "gauge_freedom", "to": "overlap", "kind": "preserves_observables_on", "weight": 1 },
+    { "from": "modular_flow", "to": "observer_patch", "kind": "induces_time_on", "weight": 1 },
+    { "from": "karma_functional_k", "to": "symphony_and_dysphony", "kind": "integrates", "weight": 1 },
+    { "from": "theorem_of_justified_dysphony", "to": "karma_functional_k", "kind": "uses", "weight": 1 },
+    { "from": "perfect_justice_as_fixed_point", "to": "fixed_point", "kind": "instance_of", "weight": 1 },
+    { "from": "karma_engine", "to": "record", "kind": "depends_on", "weight": 1 },
+    { "from": "ethics_in_oph", "to": "karma_functional_k", "kind": "grounded_in", "weight": 1 },
+    { "from": "memetic_evolution", "to": "record", "kind": "selects_over", "weight": 1 },
+    { "from": "parasitic_memes", "to": "memetic_evolution", "kind": "failure_mode_of", "weight": 1 },
+    { "from": "admissibility_test_for_amplification", "to": "karma_functional_k", "kind": "uses", "weight": 1 },
+    { "from": "conscious_admission_of_co_radiators", "to": "coherence_radius", "kind": "regulates", "weight": 1 },
+    { "from": "self_reading_substrate", "to": "patch_federation", "kind": "recursive_instance_of", "weight": 1 },
+    { "from": "free_will_and_fixed_point_fate", "to": "fixed_point", "kind": "tension_with", "weight": 1 },
+    { "from": "reality_as_observer_consensus", "to": "patch_federation", "kind": "emergent_from", "weight": 1 },
+    { "from": "subfield_sociology", "to": "patch_federation", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_politics_governance_law", "to": "mismatch", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_politics_governance_law", "to": "repair", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_economics", "to": "patch_federation", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_media_memetics", "to": "coherence_radius", "kind": "extends", "weight": 1 },
+    { "from": "subfield_psychology", "to": "patch_federation", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_cognitive_science", "to": "self_reading_substrate", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_semiotics", "to": "overlap", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_anthropology", "to": "repair", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_education", "to": "repair", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_religion", "to": "coherence_radius", "kind": "example_of", "weight": 1 },
+    { "from": "subfield_art_aesthetics", "to": "local_field", "kind": "perturbs", "weight": 1 },
+    { "from": "subfield_metaphysics", "to": "observer_patch_holography", "kind": "grounded_in", "weight": 1 },
+    { "from": "philosopher_maturana_varela", "to": "patch_federation", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_friston", "to": "repair", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_gadamer_ricoeur", "to": "overlap", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_whitehead", "to": "observer_patch", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_madhyamaka", "to": "overlap", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_daoism", "to": "local_field", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_peirce", "to": "overlap", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_bourdieu", "to": "record", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_bateson", "to": "repair", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_latour", "to": "patch_federation", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_hofstadter", "to": "self_reading_substrate", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_luhmann", "to": "self_reading_substrate", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_jung", "to": "record", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_wittgenstein", "to": "overlap", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_harman", "to": "observer_patch", "kind": "maps_to", "weight": 1 },
+    { "from": "philosopher_darwin", "to": "memetic_evolution", "kind": "generalizes_to", "weight": 1 },
+    { "from": "philosopher_dawkins", "to": "memetic_evolution", "kind": "grounded_by", "weight": 1 },
+    { "from": "philosopher_tegmark", "to": "reality_as_observer_consensus", "kind": "reframed_as", "weight": 1 },
+    { "from": "subfield_sociology", "to": "sociology.system", "kind": "related_to", "weight": 1 },
+    { "from": "subfield_economics", "to": "economics.market", "kind": "related_to", "weight": 1 },
+    { "from": "subfield_politics_governance_law", "to": "law.jurisdiction", "kind": "related_to", "weight": 1 },
+    { "from": "subfield_education", "to": "education.scaffolding", "kind": "related_to", "weight": 1 },
+    { "from": "subfield_psychology", "to": "psychology.identity", "kind": "related_to", "weight": 1 },
+    { "from": "subfield_art_aesthetics", "to": "music.harmony", "kind": "related_to", "weight": 1 },
+    { "from": "repair", "to": "medicine.remedy", "kind": "maps_to", "weight": 1 },
+    { "from": "mismatch", "to": "engineering.shear_stress", "kind": "related_to", "weight": 1 }
+  ],
+  "provenance": {
+    "source_url": "https://idea-graph-scribe.lovable.app/",
+    "fetched_at": "2026-05-24T00:00:00Z",
+    "extraction_method": "html-parse",
+    "extraction_notes": "Lovable.app is a React SPA; no public JSON export endpoint (probed: /api/graph, /api/concepts, /api/export, /data.json, /graph.json, /export.json, /concepts.json, /export, /json, /graph - all 404). A 'JSON' navigation item is visible in the header but requires sign-in to resolve. Concept nodes, descriptions, and philosopher-mapping text were extracted from the rendered DOM via WebFetch summarization. Edge labels listed by the page ('belongs to', 'related to', 'derives from', 'example of', 'influenced by', 'cites', 'critiques') are confirmed; specific edge endpoints below are reconstructed from semantic content of each node description, not from a direct edge-list export.",
+    "paper_release": "r1458",
+    "awaiting_author_confirmed_export": [
+      "Exact source/target pairs for every visible edge in the graph (current edges are semantic reconstructions from node descriptions)",
+      "Author DID (currently a placeholder; replace with did:key:... when Bernhard provides)",
+      "Edge weights (all defaulted to 1)",
+      "Any nodes hidden behind subfield expansions that did not render in the WebFetch summary",
+      "Full sub-tree under 'Highest-Priority Comparison Targets' and 'Suggested Essay Directions' (only top-level captured)",
+      "Numeric/symbolic content of Karma Functional K (formula not in rendered DOM summary)",
+      "Level 1-5 Memetic Evolution detail (titles captured, descriptions not)"
+    ],
+    "confirmed_authoritative_subset": [
+      "Top-level concept node labels",
+      "Plain-English descriptions for each concept node (verbatim from page)",
+      "List of subfields (15 captured)",
+      "List of philosopher mappings (18 captured with explicit OPH mapping text)",
+      "Edge type vocabulary (7 relationship labels)"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@rosetta/engine",
+  "version": "0.1.0",
+  "description": "Rosetta Stone Protocol — universal cross-domain concept translation. Client-side translation engine with Compiled Knowledge Graph (CKG) operations.",
+  "type": "module",
+  "main": "src/engine.js",
+  "exports": {
+    ".": "./src/engine.js"
+  },
+  "files": ["src"],
+  "scripts": {
+    "test": "node --test src/*.test.js"
+  },
+  "keywords": ["rosetta", "translation", "knowledge-graph", "lexicon", "ckg", "shapley"],
+  "author": "WGlynn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WGlynn/rosetta-stone-protocol.git",
+    "directory": "packages/engine"
+  }
+}

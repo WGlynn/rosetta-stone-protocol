@@ -1,0 +1,12 @@
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
+  server: { port: 3001 },
+  resolve: {
+    alias: {
+      '@rosetta/engine': new URL('../engine/src/engine.js', import.meta.url).pathname.replace(/^\/([A-Z]:)/, '$1'),
+    },
+  },
+})

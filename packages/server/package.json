@@ -1,0 +1,18 @@
+{
+  "name": "@rosetta/server",
+  "version": "0.1.0",
+  "description": "Rosetta Stone Protocol — backend. Lexicon registry + CKG persistence + PsiNet federation adapter. SQLite by default; pluggable to Postgres/PsiNet.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "better-sqlite3": "^12.4.1",
+    "cors": "^2.8.5"
+  },
+  "author": "WGlynn",
+  "license": "MIT"
+}
