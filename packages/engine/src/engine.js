@@ -1838,7 +1838,7 @@ export function discoverEquivalent(searchTerm) {
   const equivalents = [...exactMatches, ...approximateMatches.slice(0, 10)]
 
   return {
-    term,
+    term: searchTerm,
     found: true,
     source: sourceInfo,
     universal,

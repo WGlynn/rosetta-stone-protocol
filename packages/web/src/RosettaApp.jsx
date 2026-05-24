@@ -6,7 +6,17 @@ import {
   discoverEquivalent,
   getProtocolStats,
   getDetailedStats,
+  importLexiconFromJSON,
 } from '@rosetta/engine'
+import ophData from '../../../lexicons/oph.json'
+
+// Wire fetched lexicons into the engine at module load — before React renders.
+// Vite handles JSON imports natively; the parsed object is merged into the
+// in-process LEXICONS registry by importLexiconFromJSON (idempotent on HMR).
+// Provenance flag: oph.json was extracted via html-parse against
+// idea-graph-scribe.lovable.app; edges are semantic reconstructions
+// flagged-for-Bernhard-confirmation, not authoritative export.
+importLexiconFromJSON(ophData)
 
 // Minimal standalone Rosetta web UI. Lives in the rosetta-stone-protocol
 // monorepo so the engine can be developed + tested without dragging in the
