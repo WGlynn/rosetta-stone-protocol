@@ -144,22 +144,22 @@ anchor + payout cycle is the next milestone.
 ## Upcoming major lexicons
 
 The protocol becomes load-bearing only when authoritative domain experts
-publish their own lexicons. Two are already in flight:
+publish their own lexicons. Two candidate lexicons we'd like to see:
 
 - **Observer-Patch Holography (OPH)** — Bernhard Mueller's concept graph.
   Source-of-truth visualization: <https://idea-graph-scribe.lovable.app/>.
-  OPH is intended to function as the first major cross-domain bridge —
-  its primitives (`observer_patch`, `mismatch`, `repair`, `record`,
-  `holonomy_defect`) connect sociology, politics, economics, philosophy,
-  and math under a single mathematical structure. When OPH's lexicon
-  lands as `lexicons/oph.json`, the engine's `composeLexicon` +
-  `discoverEquivalent` operations will route translations through OPH
-  automatically wherever a universal concept aligns.
+  OPH would make a strong first cross-domain bridge: its primitives
+  (`observer_patch`, `mismatch`, `repair`, `record`, `holonomy_defect`)
+  connect sociology, politics, economics, philosophy, and math under a
+  single mathematical structure. If an OPH lexicon were authored and landed
+  as `lexicons/oph.json`, the engine's `composeLexicon` +
+  `discoverEquivalent` operations would route translations through it
+  wherever a universal concept aligns.
 
 - **"Another World Becomes Possible"** — Crys's 20-chapter book. A
   candidate lexicon mapping each chapter's vocabulary into the universal
-  concept space. Brings narrative / political / economic primitives into
-  the cross-domain graph.
+  concept space would bring narrative / political / economic primitives
+  into the cross-domain graph.
 
 ---
 
